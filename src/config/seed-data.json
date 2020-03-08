@@ -1,0 +1,133 @@
+{
+    "questions": [
+      {
+        "id": "e63367fe",
+        "question": "What is a novel coronavirus?",
+        "description": "I have heard many terms with the coronavirus, but I am unsure of what this means.",
+        "acceptedAnswer": {
+          "text": "A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold.",
+          "source": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html",
+          "upvotes": 25,
+          "downvotes": 2
+        },
+        "answers": [
+            {
+                "text": "A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold.",
+                "source": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html",
+                "upvotes": 25,
+                "downvotes": 2
+            },
+            {
+              "text": "Minus the virus, a great beverage!",
+              "source": "https://www.coronausa.com/",
+              "upvotes": 2,
+              "downvotes": 150
+            }
+        ]
+      },
+      {
+        "id": "fb0a3c5c",
+        "question": "Can I get the coronavirus by eating at Chinese restaurants?",
+        "description": "",
+        "acceptedAnswer": null,
+        "answers": [
+          {
+            "text": "No! This is just actual racism propogating through our society. Sad, really.",
+            "source": "https://nypost.com/2020/03/01/coronavirus-taking-a-toll-on-chinese-restaurants-in-new-york/",
+            "upvotes": 24,
+            "downvotes": 0
+          }
+        ]
+      },
+      {
+        "id": "fb699dbe",
+        "question": "If I think I have the virus, what should I do?",
+        "description": "",
+        "acceptedAnswer": null,
+        "answers": []
+      },
+      {
+        "id": "fbb17c92",
+        "question": "Will warm weather stop the outbreak of COVID-19?",
+        "description": "",
+        "acceptedAnswer": {
+          "text": "It is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months.  At this time, it is not known whether the spread of COVID-19 will decrease when weather becomes warmer.  There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing.",
+          "source": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html",
+          "upvotes": 4,
+          "downvotes": 0
+        },
+        "answers": [
+          {
+            "text": "It is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months.  At this time, it is not known whether the spread of COVID-19 will decrease when weather becomes warmer.  There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing.",
+            "source": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html",
+            "upvotes": 4,
+            "downvotes": 0
+          },
+          {
+            "text": "Yeah, for sure! Just like the during the Spanish Influenza!!",
+            "source": "https://www.history.com/topics/world-war-i/1918-flu-pandemic",
+            "upvotes": 4,
+            "downvotes": 10
+          }
+        ]
+      },
+      {
+        "id": "03138476",
+        "question": "Has anyone in the United States gotten infected?",
+        "description": "The coronavirus is spreading so fast, and it's difficult to keep up. I want to make sure I'm staying safe.",
+        "acceptedAnswer": null,
+        "answers": []
+      },
+      {
+        "id": "0593d66a",
+        "question": "How do I protect myself?",
+        "description": "I don't want to get the coronavirus! What should I do?",
+        "acceptedAnswer": {
+          "text": "There are a lot of things you can do. See the answer's source link for recommendations from the CDC.",
+          "source": "https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html",
+          "upvotes": 12,
+          "downvotes": 1
+        },
+        "answers": [
+          {
+            "text": "There are a lot of things you can do. See the answer's source link for recommendations from the CDC.",
+            "source": "https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html",
+            "upvotes": 12,
+            "downvotes": 1
+          }
+        ]
+      },
+      {
+        "id": "0790e1b0",
+        "question": "Where did the coronavirus start?",
+        "description": "",
+        "acceptedAnswer": {
+          "text": "Wuhan, China",
+          "source": "https://www.wsj.com/articles/how-it-all-started-chinas-early-coronavirus-missteps-11583508932",
+          "upvotes": 102,
+          "downvotes": 10
+        },
+        "answers": [
+          {
+            "text": "Wuhan, China",
+            "source": "https://www.wsj.com/articles/how-it-all-started-chinas-early-coronavirus-missteps-11583508932",
+            "upvotes": 102,
+            "downvotes": 10
+          },
+          {
+            "text": "China!!",
+            "source": "https://www.telegraph.co.uk/news/2020/03/08/what-coronavirus-covid-19-where-how-started-grow/",
+            "upvotes": 22,
+            "downvotes": 7
+          }
+        ]
+      },
+      {
+        "id": "09ddccb2",
+        "question": "Should I cancel my travel plans?",
+        "description": "I have spring plans to travel to Europe, but I am nervous about the virus.",
+        "acceptedAnswer": null,
+        "answers": []
+      }
+    ]
+}
