@@ -13,6 +13,7 @@
     "@types/react-dom": "^16.9.5",
     "@types/validator": "^12.0.1",
     "bootstrap": "^4.4.1",
+    "firebase": "^7.10.0",
     "moment": "^2.24.0",
     "react": "^16.13.0",
     "react-alert": "^6.0.1",
