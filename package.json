@@ -9,13 +9,21 @@
     "@types/jest": "^24.9.1",
     "@types/node": "^12.12.29",
     "@types/react": "^16.9.23",
+    "@types/react-alert": "^5.2.0",
     "@types/react-dom": "^16.9.5",
+    "@types/validator": "^12.0.1",
     "bootstrap": "^4.4.1",
+    "moment": "^2.24.0",
     "react": "^16.13.0",
+    "react-alert": "^6.0.1",
+    "react-alert-template-basic": "^1.0.0",
     "react-bootstrap": "^1.0.0-beta.17",
     "react-dom": "^16.13.0",
+    "react-icons": "^3.9.0",
     "react-scripts": "3.4.0",
-    "typescript": "^3.7.5"
+    "react-toastify": "^5.5.0",
+    "typescript": "^3.7.5",
+    "validator": "^12.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
