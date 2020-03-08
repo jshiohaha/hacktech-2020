@@ -1,44 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Crowdsourcing against COVID-19
 
-## Available Scripts
+This was my project for [HackTech 2020](https://hacktech.io/), which was moved to a virtual hackathon because of Coronavirus. I still had fun, and I appreciate all the organizers and sponsors for following through with a great event. For more information about my project or the other projects at HackTech 2020, please see the [Devpost](https://devpost.com/software/crowdsourcing-against-covid-19) page!
 
-In the project directory, you can run:
+## Inspiration
+COVID-19 has taken the world by storm in the early months of 2020. It's upended families, companies, and economies in a matter of months. This virus will likely have a lasting impact on the way we operate and think about future pandemics — natural or man-made. Without access to information about the virus, the situation can feel a lot scarier than what reality reflects. It can also be difficult to stay safe and avoid getting sick without the most accurate and up-to-date information. That is why I built **Crowdsourcing against COVID-19** during HackTech 2020. 
 
-### `npm start`
+## What it does
+**Crowdsourcing against COVID-19** is a platform that allows users to anonymously post questions related to COVID-19. Then, other users of the platform can submit answers **with links to the source information**. Users can agree or disagree with answers. Depending on how many users agree with an answer (and the ratio of agree votes to disagree votes), a single answer may be promoted to the accepted answer for all to see.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How I built it
+The tech stack for **Crowdsourcing against COVID-19** is relatively simple. The front-end is built with React.js and interfaces with Firebase Firestore because of its real-time database capabilities. I was excited to find out that I did not need to build out a backend service for the early stages of this project. Finally, I deployed via surge.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Accomplishments that I'm proud of
+I'm proud of completing this project by myself despite HackTech 2020 being a virtual event. The motivation waxed and waned throughout the event, but I'm proud of what I was able to accomplish.
 
-### `npm test`
+## What I learned
+I learned how to integrate database (Google Firebase) interactions directly into frontend code. I started to look into using Algolia for indexed-search, but I ultimately ran out of time and used keyword search built into Firebase. This is more nuanced and not directly technical, but I also discovered how many important product decisions go into building a platform like this — I can more reasonably empathize with the product teams that work on similar platforms. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## What's next for Crowdsourcing against COVID-19
+I believe that **Crowdsourcing against COVID-19** is usable in its current state. However, it _could_ definitely use a few more features, some refinement, and some backend work to make everything more efficient. More specifically, here are a few features that are up next.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Introducing the concept of users to track progress, contributions, etc. However, I'm passionate about the platform remaining anonymous.
+- Better search implementation using Algolia or ElasticSearch
+- Creating the "recency" or "best-match" algorithms to surface questions most relevant to specific users
