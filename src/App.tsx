@@ -13,7 +13,7 @@ import SearchBar from "./components/SearchBar/SearchBar";
 import QuestionModal from "./components/QuestionModal/QuestionModal";
 
 import { Answer } from "./components/Answer/Answer.types";
-import QuestionComponent from "./components/QuestionComponent/QuestionComponent";
+import QuestionComponent from "./components/Question/QuestionComponent";
 import { Question } from "./components/Question/Question.types";
 import { QUESTIONS_DATABASE } from "./config/dbName";
 
